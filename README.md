@@ -2,7 +2,7 @@
 
 Just a fun project to learn React & TypeScript!
 
-Paste a screenplay scene, get a detailed shot list back: [<live demo here>](https://screenplay-breakdown.vercel.app/)
+Paste a screenplay scene, get a detailed shot list back: https://screenplay-breakdown.vercel.app/
 
 ## Stack
 Next.js (App Router) · React · TypeScript · zod · Groq · Vercel
